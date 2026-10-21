@@ -1,10 +1,13 @@
 # Web1Lab1
 # LAPORAN PRAKTIKUM 1 – HTML DASAR
-
+Ini adalah Hasil dari Tampilan Web Saya
 **Nama:** Miftah Ma’ruf  
 **Kelas:** I253A  
 **Mata Kuliah:** Pemrograman Web  
 **Universitas:** Universitas Pelita Bangsa
+
+## Menambahkan foto
+![gambar](hasil_praktikum1.png)
 
 ## 1. Tujuan Praktikum
 
